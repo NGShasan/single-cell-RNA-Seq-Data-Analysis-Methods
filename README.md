@@ -6,6 +6,6 @@ For illustration purposes, we checked four widely used embedding methods to a bu
 
 
 ## Reference
-1) ttps://pubmed.ncbi.nlm.nih.gov/31792435/
+1) https://pubmed.ncbi.nlm.nih.gov/31792435/
 2) https://pubmed.ncbi.nlm.nih.gov/31097661/
 3) https://pubmed.ncbi.nlm.nih.gov/31436334/
